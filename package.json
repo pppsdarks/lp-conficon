@@ -1,0 +1,10 @@
+{
+  "name": "lp-conficon",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"Static site ready\""
+  },
+  "devDependencies": {}
+}
